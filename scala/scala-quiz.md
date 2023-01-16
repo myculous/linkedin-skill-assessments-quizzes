@@ -427,3 +427,53 @@ x= List(1,2,4); x(1)?
 - [ ] 1
 - [ ] Nil
 - [x] 2
+
+#### Q50. What term would you use to describe an object that cannot be changed
+- [ ] const
+- [ ] var
+- [ ] nil
+- [ ] rel
+ writing this Q from memory i took the assessment yesterday but cannot remembr all the answer choices. I believe the answer is const since that stands for constant
+ 
+ #### Q51. what do you call the process of converting an object into a stream ot bytes:
+ - [x] serialization
+ - [ ] refactoring
+ - [ ] transformation
+ - [ ] bytecode enabling
+
+#### Q52. What are the subclasses of Any?
+- [ ] AnyColl and AnySet
+- [ ] Anyval, AnyRef, and AnyColl
+- [ ] AnyRef and AnyColl
+- [ ] Any Val and AnyRef
+
+#### Q53. Which expression is one way to iterate over a collection and generate a collection of each iteration's result?
+- [ ] collectuntil
+- [ ] for-vield
+- [ ] for-collect
+- [ ] for-collect until
+
+#### Q54. Which command creates an array of strings of length 5
+- [ ] 
+
+
+
+#### Q55. Which data types does scala use instead of null for optional values?
+- [ ] nil
+- [ ] none
+- [ ] null
+- [ ] nothing
+
+#### Q56. Where do all classes in scala inherit?
+- [ ] anyclass
+- [ ] anyref
+- [ ] do not remember the other answers
+
+#### Q57. What do you call a function defined in a block?
+-[x] what clause should you use with try to force the execution of code even in the case of an exception
+
+#### Q58. Which operator performs a bitwise, and function
+- [x] &
+
+#### Q59.which code sample will not print the integers 1 through 4
+
